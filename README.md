@@ -1,7 +1,6 @@
 # quotes_app_with_category
 
 A new Flutter project.
-# solar_system
 
 # Screen shots
 <img src="https://github.com/khushal1099/quotes_app_with_category/assets/138639130/47d3d341-dea6-4609-88e7-504478df2890

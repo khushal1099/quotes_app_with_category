@@ -3,24 +3,15 @@
 A new Flutter project.
 
 # Screen shots
-<img src="https://github.com/khushal1099/quotes_app_with_category/assets/138639130/47d3d341-dea6-4609-88e7-504478df2890
-" width="200" height="400">
-<img src="https://github.com/khushal1099/quotes_app_with_category/assets/138639130/0230a529-9a57-4b35-97d2-b86b3af2b267
-" width="200" height="400">
-<img src="https://github.com/khushal1099/quotes_app_with_category/assets/138639130/cd3fbbcb-6c00-4536-affd-c610ba1f1fda
-" width="200" height="400">
-<img src="https://github.com/khushal1099/quotes_app_with_category/assets/138639130/5cf1696d-7ffb-428c-a7c9-ea5c013dc7d2
-" width="200" height="400">
-<img src="https://github.com/khushal1099/quotes_app_with_category/assets/138639130/df55d58e-9450-430c-a58b-13dd4b0968ff
-" width="200" height="400">
-<img src="https://github.com/khushal1099/quotes_app_with_category/assets/138639130/99f8dc1e-d783-44f3-9649-a4652191e0e4
-" width="200" height="400">
-<img src="https://github.com/khushal1099/quotes_app_with_category/assets/138639130/6262b931-4d29-423c-9bdb-9323b96ca1a4
-" width="200" height="400">
-<img src="https://github.com/khushal1099/quotes_app_with_category/assets/138639130/c9147524-c5c6-4be8-8ccf-6bfdba8824fb
-" width="200" height="400">
-<img src="https://github.com/khushal1099/quotes_app_with_category/assets/138639130/5662bdbd-9c8b-4098-b970-d7fe633a1f23
-" width="200" height="400">
+<img src="https://github.com/khushal1099/quotes_app_with_category/assets/138639130/47d3d341-dea6-4609-88e7-504478df2890" width="200" height="400">
+<img src="https://github.com/khushal1099/quotes_app_with_category/assets/138639130/0230a529-9a57-4b35-97d2-b86b3af2b267" width="200" height="400">
+<img src="https://github.com/khushal1099/quotes_app_with_category/assets/138639130/cd3fbbcb-6c00-4536-affd-c610ba1f1fda" width="200" height="400">
+<img src="https://github.com/khushal1099/quotes_app_with_category/assets/138639130/5cf1696d-7ffb-428c-a7c9-ea5c013dc7d2" width="200" height="400">
+<img src="https://github.com/khushal1099/quotes_app_with_category/assets/138639130/df55d58e-9450-430c-a58b-13dd4b0968ff" width="200" height="400">
+<img src="https://github.com/khushal1099/quotes_app_with_category/assets/138639130/99f8dc1e-d783-44f3-9649-a4652191e0e4" width="200" height="400">
+<img src="https://github.com/khushal1099/quotes_app_with_category/assets/138639130/6262b931-4d29-423c-9bdb-9323b96ca1a4" width="200" height="400">
+<img src="https://github.com/khushal1099/quotes_app_with_category/assets/138639130/c9147524-c5c6-4be8-8ccf-6bfdba8824fb" width="200" height="400">
+<img src="https://github.com/khushal1099/quotes_app_with_category/assets/138639130/5662bdbd-9c8b-4098-b970-d7fe633a1f23" width="200" height="400">
 
 # ScreenRecording
 

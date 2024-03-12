@@ -1,0 +1,49 @@
+[
+  {
+    "categories": [
+      "Love",
+      "Calm",
+      "Sad",
+      "Time",
+      "Future",
+      "Relationship"
+    ],
+    "love_image": "assets/bg.jpg",
+    "Love": [
+      "Loved you yesterday, love you still, always have, always will.",
+      "You light my heart on fire every time you look my way.",
+      "I fell in love the way you fall asleep: slowly, and then all at once.",
+      "You might not have been my first love, but you were the love that made all the other loves irrelevant."
+    ],
+    "calm_image": "assets/bgq.jpg",
+    "Calm": [
+      "The ideal of calm exists in a sitting cat.",
+      "By staying calm, you increase your resistance against any kind of storms.",
+      "Give your stress wings and let it fly away."
+    ],
+    "sad_image": "assets/bgs.jpg",
+    "Sad": [
+      "Our greatest joy and our greatest pain come in our relationships with others",
+      "It is sad not to love, but it is much sadder not to be able to love.",
+      "It’s amazing how someone can break your heart and you can still love them with all the little pieces."
+    ],
+    "time_image": "assets/bgt.jpg",
+    "Time": [
+      "Time you enjoy wasting is not wasted time.",
+      "Time is what we want most but what we use worst.",
+      "Time spent with the one you love is never wasted."
+    ],
+    "future_image": "assets/bgf.webp",
+    "Future": [
+      "The man least dependent upon the morrow goes to meet the morrow most cheerfully.",
+      "Humanity does not know where to go because no one is waiting for it: not even God.",
+      "We steal if we touch tomorrow. It is God’s."
+    ],
+    "relationship_image": "assets/bgr.jpg",
+    "Relationship": [
+      "I exist in two places, here, and where you are",
+      "Happily ever after is not a fairy tale, it’s a choice.",
+      "Never above you. Never below you. Always beside you."
+    ]
+  }
+]
